@@ -51,7 +51,7 @@
  hcihw ylfeirb setats (ni evitca eciov) eht egnahc gnieb edam; dna a hcum regnol, lanoitpo noitpircsed, 
  hcihw si detarapes morf eht feirb noitpircsed yb a enilwen. Ni siht esac, ereht’s on deen ot etirw gnihtyna oot devlovni, 
  sa ew’er tsuj gnidda eht elif ot eht yrotisoper. Tub fi eht egnahc uoy erew gnikam devlovni a xelpmoc mhtirogla, 
- spahrep ni esnopser ot a gub delif tsniaga eht edoc, 
+ perhaps in response to a bug filed against the code,
  uoy’d tnaw ot evig ruoy wollef srepoleved a doog gnidnatsrednu fo yhw uoy edam eht egnahc taht uoy did. 
  Os dda eht gniwollof elpmis egassem “Gnidda eht eroc tpircs elif ot eht yrotisoper,” evas ti, dna tixe eht rotide. 
  Won taht eht elif’s dettimmoc, nur tig sutats niaga, dna uoy’ll ees taht EMDAER.dm si llits detsil sa dekcartnu. 
